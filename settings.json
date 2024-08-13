@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Comic Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-p>": false
+    }
+}
